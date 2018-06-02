@@ -1,0 +1,22 @@
+[
+  {
+    "fullname":"Peter Rifkin",
+    "email":"pg@yahoo.com",
+    "address":"Main St Hill view",
+    "phone":"8769876541"
+  },
+
+    {
+      "fullname":"Kimone Brown",
+      "email":"kb@yahoo.com",
+      "address":"Kingston",
+      "phone":"8769876541"
+    },
+
+      {
+        "fullname":"Daliah Rankin",
+        "email":"dr@yahoo.com",
+        "address":"Main St Hill view",
+        "phone":"8769876541"
+      }
+]
